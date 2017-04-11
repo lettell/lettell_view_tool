@@ -6,10 +6,10 @@ require 'lettell_view_tool/version'
 Gem::Specification.new do |spec|
   spec.name          = "lettell_view_tool"
   spec.version       = LettellViewTool::VERSION
-  spec.authors       = ["Paulius Jarosius"]
+  spec.authors       = ["Paulius Jarošius"]
   spec.email         = ["jarosius@live.com"]
 
-  spec.summary       = %q{Various views specific methods for appliations I use}
+  spec.summary       = %q{Various views specific methods for applications I use}
   spec.description   = %q{Provides generated HTML data for Rails applications.}
   spec.homepage      = "https://iapp.lt"
   spec.license       = "MIT"
